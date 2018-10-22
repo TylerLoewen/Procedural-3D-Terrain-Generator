@@ -29,6 +29,10 @@ To do so:
 * [Visual Studio Community 2017](https://visualstudio.microsoft.com/vs/community/) - The IDE used
 * Unity3D's first person character controller
 
+## Compatibility
+
+Tested with Unity 2018.2.13f1 and Visual Studio Community 2017 Version 15.8.7
+
 ## Authors
 
 * **Tyler Loewen** - [GitHub](https://github.com/TylerLoewen)
