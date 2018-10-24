@@ -1,10 +1,10 @@
-# Procedural Terrain Generation using Perlin Noise
+# Procedural 3D Terrain Generator
 
-Procedural Terrain Generator is a seamless chunk based terrain generator with customizable terrain types. It uses Perlin noise to generate the terrain and implements the Goraud and Flat shading lighting models.
+Procedural 3D Terrain Generator is a seamless chunk based terrain generator with customizable terrain types. It uses Perlin noise to generate the terrain and implements the Goraud and Flat shading lighting models.
 
 ## Getting Started
 
-Download the project and Unity3D. Navigate to "Procedural Terrain Generation > Assets > Scenes" and open one of the scenes to launch Unity3D.
+Download the project and Unity3D. Navigate to "Procedural 3D Terrain Generator > Assets > Scenes" and open one of the scenes to launch Unity3D.
 
 ### Prerequisites
 
