@@ -2,11 +2,11 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
+/Procedural\ 3D\ Terrain\ Generator/[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
+# /[Bb]uild/
+# /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
@@ -55,8 +55,8 @@ ExportedObj/
 sysinfo.txt
 
 # Builds
-*.apk
-*.unitypackage
+# *.apk
+# *.unitypackage
 
 # Crashlytics generated file
 crashlytics-build.properties
