@@ -43,4 +43,4 @@ This project is licensed under the GNU General Public License - see the [GNU Gen
 
 ## Acknowledgments
 
-This project was developed using various resources from the [Unity Asset Store](https://assetstore.unity.com/) and [Sebastian Lauge's](https://www.youtube.com/user/Cercopithecan) Youtube channel
+This project was developed using various resources from the [Unity Asset Store](https://assetstore.unity.com/) and [Sebastian Lauge's](https://www.youtube.com/user/Cercopithecan) Youtube channel.
