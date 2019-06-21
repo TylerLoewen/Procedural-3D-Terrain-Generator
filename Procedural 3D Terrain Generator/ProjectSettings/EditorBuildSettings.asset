@@ -6,5 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/NoDayNight.unity
-    guid: 47aa3339421f8074585c58344200656b
+    path: Assets/Scenes/FlatShaded.unity
+    guid: c1bac383c03eb4b4680db720bacf8af1
+  m_configObjects: {}
